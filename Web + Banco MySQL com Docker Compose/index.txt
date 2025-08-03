@@ -1,0 +1,10 @@
+<!DOCTYPE html>
+<html>
+<head>
+  <title>Meu site Docker</title>
+</head>
+<body>
+  <h1>Olá, Docker no Linux Mint!</h1>
+  <p>Este é um site rodando em container.</p>
+</body>
+</html>
